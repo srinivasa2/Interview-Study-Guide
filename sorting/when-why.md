@@ -1,6 +1,7 @@
 #Which Sort Is Used?
 
-These will be discussed:
+These will be discussed: 
+
 1.  Quick Sort
 2.  Merge Sort
 3.  Heap Sort
@@ -11,7 +12,6 @@ These will be discussed:
 8.  Radix Sort
 9.  Bucket Sort
 
-Markdown | Less | Pretty
+Sorting Algorithm | Runtimes | Explain
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Quick Sort | Best Case Worst Case| 3
