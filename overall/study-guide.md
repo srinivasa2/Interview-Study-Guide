@@ -3,33 +3,36 @@
 These will be discussed:
 
 1. Data Structures
-  * Linked List
+  * Singly Linked List
   * Doubly Linked List
+  * Circular Linked List
   * Queue
   * Stack
   * Deque
   * Hash Table
-
-     Synchronized, allows duplcates, doesn't allow nulls, (K,V)]
   * Hash Map
-
-     [No duplicates, not synchronized, order is not maintained, not thread safe, allows null]
   * Hash Set
-
-     [No duplicates, not synchronized, allows null]
-  * Set, Map (Interface)
+  * Set (Interface)
+  * Map (Interface)
   * Binary Tree [each node has two leaves]
   * Binary Search Tree [Left = less, Right = greater]
   * Priority Queue
 
-Data Structure | Specifics | Methods |  Runtimes
+Data Structure | Specifics | Methods |  Runtimes | Java Code
 --- | --- | --- | ---
-Linked List| [placeholder] | [placeholder] | [placeholder]
-Linked List| [placeholder] | [placeholder] | [placeholder]
-Linked List| [placeholder] | [placeholder] | [placeholder]
-Linked List| [placeholder] | [placeholder] | [placeholder]
-Linked List| [placeholder] | [placeholder] | [placeholder]
-Linked List| [placeholder] | [placeholder] | [placeholder]
+Singly Linked List| [placeholder] | [placeholder] | [placeholder] | <a href = " https://github.com/ChristianCSE/MyStructures/tree/master/src/LinkedLists/LinkedList"> Singly Linked List</a>
+Doubly Linked List| [placeholder] | [placeholder] | [placeholder] |
+Circular Linked List|    |    |   |
+Queue| [placeholder] | [placeholder] | [placeholder] |
+Stack| [placeholder] | [placeholder] | [placeholder]   |
+Deque| [placeholder] | [placeholder] | [placeholder]  |
+Hash Table| [placeholder] | [placeholder] | Synchronized, allows duplcates, doesn't allow nulls, (K,V)  |
+ Hash Map |    |    | No duplicates, not synchronized, order is not maintained, not thread safe, allows null |
+Set |    |    | Interface |
+ Map |    |    | Interface |
+ |    |    |  |
+ |    |    |  |
+ |    |    |  |
 
 
 Sorting  Algorith | WC | BC | Avg (if applicable)| When to use?
