@@ -37,7 +37,9 @@ These will be discussed:
   * Priority Queue
   * Trie
   * Suffix Tree
-2.  General Alogirthms
+  * Heap
+  * Binary Heap
+3.  General Alogirthms
   * Binary Search
   * Knuth–Morris–Pratt Algorithm
   * Robin-Karp Alogirthm
@@ -57,7 +59,6 @@ These will be discussed:
   * Ford-Fulkerson Algorithm
   * Min-Max Theorem (Network Flow)
   * Simplex (Network Flow)
-  * Binary Heap
   * Blossom algorithm (Graph)
 4. Common Interview Problems
   * Palindromes
@@ -73,13 +74,13 @@ These will be discussed:
 <li>O(1) < O(log(n)) < O(n) < O(n*log(n)) < O(n<sup>2</sup>) < O(2<sup>n</sup>) < O(n!)</li>
 </ul>
 
-<table>
-<thread>
-  <tr>
+
+<table><thread><tr>
     <th>Sorting Algorithm</th>
-    <th>Best Case</th><th>Worst Case</th><th>Avg Case [If applicable]</th><th>Space Complexity</th>
-  </tr>
- </thread><tbody>
+    <th>Best Case</th><th>Worst Case</th><th>Avg Case [If applicable]</th>
+    <th>Space Complexity</th>
+  </tr></thread><tbody>
+
 <tr><th>Bubble Sort</th>
   <td>O(n)</td><td>O(n<sup>2</sup>)</td><td></td><td> </td>
 </tr>
@@ -129,13 +130,10 @@ These will be discussed:
 
 
 
-<table>
-<thread>
-  <tr>
+<table><thread><tr>
     <th>Sorting Algorithm Explained</th>
     <th> When to use? </th><th>Explain Runtime & Space Complexity</th>
-  </tr>
- </thread><tbody>
+  </tr></thread><tbody>
 
 <tr><th>Bubble Sort</th>
   <td> X</td> <td>X </td>
@@ -189,21 +187,19 @@ These will be discussed:
 
 
 
-<table>
-<thread>
-  <tr>
+<table><thread><tr>
     <th>Data Structure</th>
     <th> Methods  </th> <th>Runtimes </th> <th> Java Code </th>
-  </tr>
- </thread><tbody>
+  </tr></thread><tbody>
 
 <tr><th>Singly Linked List</th>
   <td> X</td> <td>X </td>
-  <td> <a href =  "https://github.com/ChristianCSE/MyStructures/tree/master/src/LinkedLists/LinkedList"> Done</a></td>
+  <td> <a href =  "https://github.com/ChristianCSE/MyStructures/blob/master/src/LinkedLists/SinglyLinkedList/SinglyLinkedList.java"> Done</a></td>
 </tr>
 <!---->
 <tr><th>Doubly Linked List </th>
-  <td> X</td> <td>X </td>  <td>X </td>
+  <td> X</td> <td>X </td>
+  <td><a href="https://github.com/ChristianCSE/MyStructures/blob/master/src/LinkedLists/DoublyLinkedList/DoublyLinkedList.java"> Done </a></td>
 </tr>
 <!---->
 <tr><th>Circular Linked List</th>
@@ -386,9 +382,100 @@ These will be discussed:
 <tr><th>Heap</th>
   <td> X</td>
 </tr>
+<!---->
+<tr><th>Binary Heap</th>
+  <td> X</td>
+</tr>
+
  </tbody></table>
 
 
+
+<table><thread><tr>
+    <th>General Algorithms </th>
+    <th>Runtimes</th><th>Java Code</th>
+  </tr></thread><tbody>
+
+<tr><th> Binary Search</th>
+  <td> X</td><td>  <a href = "https://github.com/ChristianCSE/PracticeProgramming/blob/master/src/algorithms/binarySearch.java"> Done </td>
+</tr>
+<!---->
+<tr><th> Knuth-Morris-Pratt </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> Robin-Karp </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>Dijkstra's</th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>A*</th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>Depth First Search </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>Breadth First Search </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>Minimum Spanning Tree </th>
+  <td> X </td><td> X </td>
+</tr>
+<!---->
+<tr><th>MST Prim's </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>MST Kruskal's </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> Chu-Li Edmond's </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> LRU cache </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>Knapsack [Dynamic] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> Fibonacci [Dynamic] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>Towers of Hanoi [Dynamic] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> Longest Common Subsequence [Dynamic] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th>Ford-Fulkerson </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> Min-Max Theorem </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> Simple </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr><th> Blossom </th>
+  <td> X</td><td> X </td>
+</tr>
+ </tbody></table>
 
 
 
