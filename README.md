@@ -73,6 +73,8 @@ These will be discussed:
 5. Networking
   * Network Layer
   * HTTP Protocol
+  * SSL
+  * IP Routers
   * TCP & UDP
   * Subnetting Mask
   * STMP & POP3
@@ -93,13 +95,14 @@ These will be discussed:
   * Normalization
   * ACID
   * SQL Injection & Prevention (security)
+  * Inner and Outer Join
 8. Architecture
   *Backend Architecture
       *Scaling
       * Web servers
       * Languages
       * Databases
-9. UNIX   
+9. UNIX
 
 
 
@@ -606,5 +609,106 @@ These will be discussed:
   <td> <a href = "https://github.com/ChristianCSE/PracticeProgramming/blob/master/src/codility/binarygap/binarygap.java"> Done </a></td>
   <td> X </td>
 </tr>
+</tbody></table>
+
+
+
+<table><thread><tr>
+    <th>5. Newtorks </th>
+    <th> Explain</th>
+  </tr></thread><tbody>
+
+<tr><th>   </th>
+  <td> X</td>
+</tr>
+
 
 </tbody></table>
+
+
+
+<table><thread><tr>
+    <th>6. OS </th>
+    <th> Explain</th>
+  </tr></thread><tbody>
+
+<tr><th> daemon </th>
+  <td>
+  Program running as a background process rather than direct control of an interactive user.  <br/>
+
+  </td>
+</tr>
+
+<tr><th>   </th>
+  <td> X</td>
+</tr>
+
+
+</tbody></table>
+
+
+
+
+
+<table><thread><tr>
+    <th>7. Databases </th>
+    <th> Explain</th>
+  </tr></thread><tbody>
+
+<tr><th>   </th>
+  <td> X</td>
+</tr>
+
+
+</tbody></table>
+
+
+
+
+
+<table><thread><tr>
+    <th>8. Architecture </th>
+    <th> Explain</th>
+  </tr></thread><tbody>
+
+<tr><th>   </th>
+  <td> X</td>
+</tr>
+
+
+</tbody></table>
+
+
+
+<table><thread><tr>
+    <th>9. UNIX </th>
+    <th> Explain</th>
+  </tr></thread><tbody>
+
+<tr><th> Basic commands </th>
+  <td>
+   "< " Read <br/>
+   "> " Write <br/>
+   "|" Pipe: This takes stdOut from the previous proces and uses it in stdIn of the next process. Pipes, in the
+   command line at least, are unidirectional. <br/>
+   </td>
+</tr>
+
+
+
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
