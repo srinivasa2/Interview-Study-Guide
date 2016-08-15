@@ -20,19 +20,19 @@ These will be discussed:
 
 Data Structure | Specifics | Methods |  Runtimes | Java Code
 --- | --- | --- | ---| --
-Singly Linked List| [placeholder] | [placeholder] | [placeholder] | <a href = " https://github.com/ChristianCSE/MyStructures/tree/master/src/LinkedLists/LinkedList"> Singly Linked List</a>
-Doubly Linked List| [placeholder] | [placeholder] | [placeholder] |
-Circular Linked List|    |    |   |
-Queue| [placeholder] | [placeholder] | [placeholder] |
-Stack| [placeholder] | [placeholder] | [placeholder]   |
-Deque| [placeholder] | [placeholder] | [placeholder]  |
-Hash Table| [placeholder] | [placeholder] | Synchronized, allows duplcates, doesn't allow nulls, (K,V)  |
- Hash Map |    |    | No duplicates, not synchronized, order is not maintained, not thread safe, allows null |
-Set |    |    | Interface |
- Map |    |    | Interface |
- |    |    |  |
- |    |    |  |
- |    |    |  |
+Singly Linked List  | [placeholder] | [placeholder] | [placeholder] | <a href = " https://github.com/ChristianCSE/MyStructures/tree/master/src/LinkedLists/LinkedList"> Singly Linked List</a>
+Doubly Linked List| [placeholder] | [placeholder] | [placeholder] | [placeholder]
+Circular Linked List  |    |    |   |
+Queue| [placeholder] | [placeholder] | [placeholder] |          |
+Stack| [placeholder] | [placeholder] | [placeholder]   |          |
+Deque| [placeholder] | [placeholder] | [placeholder]  |          |
+Hash Table| [placeholder] | [placeholder] | Synchronized, allows duplcates, doesn't allow nulls, (K,V)  |           |
+ Hash Map |    |    | No duplicates, not synchronized, order is not maintained, not thread safe, allows null |            |
+Set |    |    | Interface |           |
+ Map |    |    | Interface |          |
+ |    |    |  |          |
+ |    |    |  |          |
+ |    |    |  |          |
 
 
 Sorting  Algorith | WC | BC | Avg (if applicable)| When to use?
