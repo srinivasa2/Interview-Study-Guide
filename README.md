@@ -98,10 +98,10 @@ These will be discussed:
   * Inner and Outer Join
 8. Architecture
   *Backend Architecture
-      *Scaling
-      * Web servers
-      * Languages
-      * Databases
+  *Scaling
+  * Web servers
+  * Languages
+  * Databases
 9. UNIX
 
 
