@@ -89,6 +89,7 @@ These will be discussed:
   * Starvation
   * IPC
   * Inode
+  *Extras: Daemon, etc.
 7. Databases
   * SQL Queries
   * Indexing
@@ -98,10 +99,6 @@ These will be discussed:
   * Inner and Outer Join
 8. Architecture
   *Backend Architecture
-  *Scaling
-  * Web servers
-  * Languages
-  * Databases
 9. UNIX
 
 
@@ -632,16 +629,44 @@ These will be discussed:
     <th> Explain</th>
   </tr></thread><tbody>
 
+
+<tr><th>  Process & Threads </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th>  Memory Organization (Stack & Heap) </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th> Booting Process  </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th>  Starvation </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th>  IPC </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th>  Inode </th>
+  <td> X</td>
+</tr>
+
+
 <tr><th> daemon </th>
   <td>
   Program running as a background process rather than direct control of an interactive user.  <br/>
-
   </td>
 </tr>
 
-<tr><th>   </th>
-  <td> X</td>
-</tr>
+
 
 
 </tbody></table>
@@ -655,10 +680,39 @@ These will be discussed:
     <th> Explain</th>
   </tr></thread><tbody>
 
-<tr><th>   </th>
+<tr><th>  SQL Queries</th>
   <td> X</td>
 </tr>
 
+
+<tr><th> Indexing </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th>Normalization</th>
+  <td> X</td>
+</tr>
+
+
+<tr><th> ACID  (Atomicity, Consistency, Isolation, Durability) </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th> SQL Injection & Prevention </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th> Inner & Outer Join </th>
+  <td> X</td>
+</tr>
+
+
+<tr><th>  Distribute Systems </th>
+  <td> X</td>
+</tr>
 
 </tbody></table>
 
@@ -671,8 +725,13 @@ These will be discussed:
     <th> Explain</th>
   </tr></thread><tbody>
 
-<tr><th>   </th>
-  <td> X</td>
+<tr><th>  Backend Architecture </th>
+  <td>
+      Scaling: <br/>
+      Web Servers: <br/>
+      Languages: <br/>
+      Databases: <br/>
+  </td>
 </tr>
 
 
@@ -697,18 +756,5 @@ These will be discussed:
 
 
 </tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
