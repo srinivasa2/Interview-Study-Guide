@@ -19,6 +19,7 @@ These will be discussed:
   * Singly Linked List
   * Doubly Linked List
   * Circular Linked List
+  * Bit Maps
   * Queue
   * Stack
   * Deque
@@ -60,6 +61,7 @@ These will be discussed:
   * Min-Max Theorem (Network Flow)
   * Simplex (Network Flow)
   * Blossom algorithm (Graph)
+  * Steinhaus Johnson Trotter (Permutations)
 4. Common Interview Problems
   * Palindromes
   * Most/Least common character
@@ -68,6 +70,38 @@ These will be discussed:
   * Linked-List/Graph Traversal (Sum)
   * Backtracking
   * DFS/BFS
+5. Networking
+  * Network Layer
+  * HTTP Protocol
+  * TCP & UDP
+  * Subnetting Mask
+  * STMP & POP3
+  * Ping
+  * TCP Handshake
+  * Browser; what happens?
+6. OS
+  * Process & Threads
+  * Memory organization
+  * Booting Process
+  * Deadlock
+  * Starvation
+  * IPC
+  * Inode
+7. Databases
+  * SQL Queries
+  * Indexing
+  * Normalization
+  * ACID
+  * SQL Injection & Prevention (security)
+8. Architecture
+  *Backend Architecture
+      *Scaling
+      * Web servers
+      * Languages
+      * Databases
+9. UNIX   
+
+
 
 
 <ul>
@@ -109,7 +143,7 @@ These will be discussed:
 </tr>
   <!---->
 <tr><th>Radix Sort [Distribution Based]</th>
-<td></td><td></td><td></td><td> </td>
+<td> </td><td></td><td></td><td> </td>
 </tr>
   <!---->
 <tr><th>Bucket Sort [Distribution Based]</th>
@@ -203,6 +237,10 @@ These will be discussed:
 </tr>
 <!---->
 <tr><th>Circular Linked List</th>
+  <td> X</td> <td>X </td>  <td>X </td>
+</tr>
+<!---->
+<tr><th>Bit Map</th>
   <td> X</td> <td>X </td>  <td>X </td>
 </tr>
 <!---->
@@ -306,6 +344,10 @@ These will be discussed:
 </tr>
 <!---->
 <tr><th>Circular Linked List</th>
+  <td> X</td>
+</tr>
+<!---->
+<tr><th>Bit Map</th>
   <td> X</td>
 </tr>
 <!---->
