@@ -17,6 +17,9 @@ These will be discussed:
   * Binary Tree
   * Binary Search Tree
   * Priority Queue
+  * Trie
+  * Suffix Tree.
+2.
 
 Data Structure | Methods |  Runtimes | Java Code
 --- | --- | --- | ---
@@ -49,23 +52,45 @@ Set | Interface
  Map |   Interface
  Binary Tree| each node has two leaves
  Binary Search Tree|    Left = less, Right = greaters
- Priority Queue|
+ Priority Queue| X
 
 
 
 
 
-Sorting  Algorith | WC | BC | Avg (if applicable)| When to use?
+Sorting  Algorith | WC | BC | Avg | Space Complexity
 --- | --- | --- | --- | ---
-Quick Sort | O(N^2) | O(log(N)) | O(N*log(N))| Stable runtime isn't required. You may randomize your pivot selection in order to get more stability.
-Merge Sort|O(n*log(n))| O(n*log(n))|X| You require a consistent runtime
-Heap Sort| | | X|
-Intro Sort| | | X|
-Tim Sort| | | X|
-Selection Sort| | | X|
-Bubble Sort| | | X|
-Bubble Sort| | | X|
-Radix Sort| | | X|
-Bucket Sort| | | X|
+Bubble Sort|            X|                X  | X|
+Insertion Sort|            X|                X  | X|
+Merge Sort|O(n*log(n))| O(n*log(n))|X|
+Selection Sort|            O(n<sup>2</sup>)|                O(n<sup>2</sup>) | X|
+Quick Sort | O(N^2) | O(log(N)) | O(N*log(N))|
+Heap Sort|            X|                X  | X|
+Intro Sort|           X|                X  | X|
+Tim Sort|            X|                X  | X|
+Radix Sort Distribution Based|            X|                X  | X|
+Bucket Sort [Distribution Based]|           X|                X  | X|
+Shell Sort|           X|                X  | X|
+
+
+
+
+Sorting  Algorith | When to use? | Explain Runtime & Space Complexity
+--- | --- | ---
+Bubble Sort|   x    |   x
+Insertion Sort|   x    |   x
+Merge Sort|   You require a consistent runtime   |   x
+Selection Sort|   x    |   x
+Quick Sort | Stable runtime isn't required. You may randomize your pivot selection in order to get more stability
+Heap Sort|    x    |   x
+Intro Sort|    x    |   x
+Tim Sort|    x    |   x
+Radix Sort|    x    |   x
+Bucket Sort|    x    |   x
+Shell Sort|   x    |   x
+
+
+
+
 
 
