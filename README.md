@@ -533,8 +533,13 @@ These will be discussed:
   <td> X</td><td> X </td>
 </tr>
 <!---->
+<tr><th> Only Unique Chars </th>
+  <td> <a href="https://github.com/ChristianCSE/PracticeProgramming/blob/master/src/Mix-Of-Problems/Uniq-Chars/UniqueChars.java">  Done</a></td>
+  <td> X </td>
+</tr>
+<!---->
 <tr><th> Inverting a Tree </th>
-  <td> <a href = " https://github.com/ChristianCSE/PracticeProgramming/blob/master/src/DataStructures/tree/Test-tree/invertBST.java" > Done </a></td>
+  <td> <a href = " https://github.com/ChristianCSE/PracticeProgramming/blob/master/src/DataStructures/tree/Test-tree/invertBST.java"> Done </a></td>
   <td> X </td>
 </tr>
 <!---->
