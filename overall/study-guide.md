@@ -16,11 +16,11 @@ These will be discussed:
   * Map (Interface)
   * Binary Tree [each node has two leaves]
   * Binary Search Tree [Left = less, Right = greater]
-  * Priority Queue 
+  * Priority Queue
 
 Data Structure | Specifics | Methods |  Runtimes | Java Code
---- | --- | --- | ---
-Singly Linked List| [placeholder] | [placeholder] | [placeholder] | Singly Linked List
+--- | --- | --- | ---| --
+Singly Linked List| [placeholder] | [placeholder] | [placeholder] | <a href = " https://github.com/ChristianCSE/MyStructures/tree/master/src/LinkedLists/LinkedList"> Singly Linked List</a>
 Doubly Linked List| [placeholder] | [placeholder] | [placeholder] |
 Circular Linked List|    |    |   |
 Queue| [placeholder] | [placeholder] | [placeholder] |
