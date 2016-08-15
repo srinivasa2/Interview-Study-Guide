@@ -14,25 +14,45 @@ These will be discussed:
   * Hash Set
   * Set (Interface)
   * Map (Interface)
-  * Binary Tree [each node has two leaves]
-  * Binary Search Tree [Left = less, Right = greater]
+  * Binary Tree
+  * Binary Search Tree
   * Priority Queue
 
-Data Structure | Specifics | Methods |  Runtimes | Java Code
---- | --- | --- | ---| ---
-Singly Linked List  | [placeholder] | [placeholder] | [placeholder] | <a href = " https://github.com/ChristianCSE/MyStructures/tree/master/src/LinkedLists/LinkedList"> Singly Linked List</a>
-Doubly Linked List| [placeholder] | [placeholder] | [placeholder] | [placeholder]
-Circular Linked List  |    |    |   |
-Queue| [placeholder] | [placeholder] | [placeholder] |          |
-Stack| [placeholder] | [placeholder] | [placeholder]   |          |
-Deque| [placeholder] | [placeholder] | [placeholder]  |          |
-Hash Table| [placeholder] | [placeholder] | Synchronized, allows duplcates, doesn't allow nulls, (K,V)  |           |
- Hash Map |    |    | No duplicates, not synchronized, order is not maintained, not thread safe, allows null |            |
-Set |    |    | Interface |           |
- Map |    |    | Interface |          |
- |    |    |  |          |
- |    |    |  |          |
- |    |    |  |          |
+Data Structure | Methods |  Runtimes | Java Code
+--- | --- | --- | ---
+Singly Linked List  |         |           |
+Doubly Linked List |         |           |
+Circular Linked List  |          |           |
+Queue |         |           |
+Stack |         |           |
+Deque |         |           |
+Hash Table |         |           |
+ Hash Map |         |           |
+Set |         |           |
+ Map |         |           |
+ Binary Tree|    |         |           |
+ Binary Search Tree|    |         |           |
+ Priority Queue|    |         |           |
+
+Data Structure | Specifics
+--- | ---
+Singly Linked List  | [placeholder]
+Doubly Linked List| [placeholder]
+Circular Linked List  |
+Queue| [placeholder] |
+Stack| [placeholder] |
+Deque| [placeholder] |
+Hash Table| Synchronized, allows duplcates, doesn't allow nulls, (K,V)  |
+Hash Map | No duplicates, not synchronized, order is not maintained, not thread safe, allows null
+Hash Set |
+Set | Interface
+ Map |   Interface
+ Binary Tree| each node has two leaves
+ Binary Search Tree|    Left = less, Right = greaters
+ Priority Queue|
+
+
+
 
 
 Sorting  Algorith | WC | BC | Avg (if applicable)| When to use?
