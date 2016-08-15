@@ -9,19 +9,28 @@ These will be discussed:
   * Stack
   * Deque
   * Hash Table
-      
-    [Synchronized, allows duplcates, doesn't allow nulls, (K,V)]
+
+     Synchronized, allows duplcates, doesn't allow nulls, (K,V)]
   * Hash Map
-    
-    [No duplicates, not synchronized, order is not maintained, not thread safe, allows null]
+
+     [No duplicates, not synchronized, order is not maintained, not thread safe, allows null]
   * Hash Set
-    
-    [No duplicates, not synchronized, allows null]
+
+     [No duplicates, not synchronized, allows null]
   * Set, Map (Interface)
   * Binary Tree [each node has two leaves]
   * Binary Search Tree [Left = less, Right = greater]
   * Priority Queue
-  *
+
+Data Structure | Specifics | Methods |  Runtimes
+--- | --- | --- | ---
+Linked List| [placeholder] | [placeholder] | [placeholder]
+Linked List| [placeholder] | [placeholder] | [placeholder]
+Linked List| [placeholder] | [placeholder] | [placeholder]
+Linked List| [placeholder] | [placeholder] | [placeholder]
+Linked List| [placeholder] | [placeholder] | [placeholder]
+Linked List| [placeholder] | [placeholder] | [placeholder]
+
 
 Sorting  Algorith | WC | BC | Avg (if applicable)| When to use?
 --- | --- | --- | --- | ---
