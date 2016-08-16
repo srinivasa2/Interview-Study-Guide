@@ -80,7 +80,7 @@ Standardized network protocol used on IP netorks for dynamcially distributing ne
 All the following IP's: client, yours, server, realy. Also, it returns the client ethernet address, subnetmask which is the internet control message protocol, router, and domain name server.
 <hr/>
 <b><u>Explain what happens when you do a search on your web-browser</u></b>
-<b>Answer</b>
+<br/> <b>Answer</b>
 On your PC, through a client machine -- aka your web browser -- you go on google's IP address (72.14.204.147). Your PC will llook at the address and make a TCP connection with the address and make a TCP connection with the IP address at port 80 from the internal IP address using some random source point. The thing that translates the web address into an actual IP number address is the DNS (Domain Name System).
 </td>
 </tr>
