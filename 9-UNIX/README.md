@@ -11,11 +11,13 @@
     <td>
         <b>< </b>: Read
         <br/>
-        <b>> </b> : Write
+        <b>> </b>: Write
         <br/>
-        <b>|</b> Pipe. This takes stdOut from the previous proces and uses it in stdIn of the next process. Pipes, in the command line at least, are unidirectional.
+        <b>|</b> Pipe : This takes stdOut from the previous proces and uses it in stdIn of the next process. Pipes, in the command line at least, are unidirectional.
         <br/>
         <b>grep</b>: grep "what you're looking for" inhere.java => This will then print every instance of "what you're looking for"
+        <br/>
+        <b>ping</b>: this tests the connection between local server IPC and remote UNIX server. It uses an ICMP (Internet Control Message Protocol) protocol.
         <br/>
         <b>chmod</b>: chmod xyz this_file => <br/>
         (where 0<=x , y, z <=6 ) This allows you to change the access file permissions. <br/>
@@ -76,5 +78,10 @@ Computer networking protocol used in IP networks to auto assign an IP-address to
 Standardized network protocol used on IP netorks for dynamcially distributing network configutarion parameters like: IP-address for interfaces and services.
 <br/><b>Returns</b>:
 All the following IP's: client, yours, server, realy. Also, it returns the client ethernet address, subnetmask which is the internet control message protocol, router, and domain name server.
+<hr/>
+<b><u>Explain what happens when you do a search on your web-browser</u></b>
+<b>Answer</b>
+On your PC, through a client machine -- aka your web browser -- you go on google's IP address (72.14.204.147). Your PC will llook at the address and make a TCP connection with the address and make a TCP connection with the IP address at port 80 from the internal IP address using some random source point. The thing that translates the web address into an actual IP number address is the DNS (Domain Name System).
+
     </td>
 </tr>
