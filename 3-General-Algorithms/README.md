@@ -1,4 +1,4 @@
-3.  General Alogirthms
+# General Alogirthms
   * Binary Search
   * Knuth–Morris–Pratt Algorithm
   * Robin-Karp Alogirthm
