@@ -646,7 +646,8 @@ Each layer is used for a particular connection. Each layer also wraps around a s
 At each layer, the packet consists of two parts; header and body: <br/>
 <b>Header</b>: Protocol information w.r.t. layer. <br/>
 <b>Body</b>: Data w.r.t. layer.  This usually consists of a whole packet form the next layer in the stack.  <br/>
-Each layer treats the info it gets from layer above. Each layer also applies its own header to that data.  Nothing is lost; hence, the packet contains all info passed from higher layer : encapsulation.
+Each layer treats the info it gets from layer above. Each layer also applies its own header to that data.  Nothing is lost; hence, the packet contains all info passed from higher layer : encapsulation. <br/>
+
 </td>
 </tr>
 
@@ -850,10 +851,35 @@ Each layer treats the info it gets from layer above. Each layer also applies its
    "> " Write <br/>
    "|" Pipe: This takes stdOut from the previous proces and uses it in stdIn of the next process. Pipes, in the
    command line at least, are unidirectional. <br/>
+   "grep": grep "what you're looking for"  inhere.java  => This will then print every instance of  "what you're looking for" <br/>
+   "chmod": chmod xyz thisfile => (where 0 <= x, y, z <= 6) This allows you to change the access file permissions.
+   X represents the owner, Y is the group, and Z is other; where each digit represents 3 bits. In other words, 6 represents 110 or 7 representing 111. Each bit represents a permission: Read/View ||| Write/Edit ||| Execute. So if we do
+   "chomd 666 myfolder" => we have given Read/Write permissions to the owner, group, and other. <br/>
+   <hr/>
+  <b>Writing to a file via cmnd line</b>: echo 'Hello, World. '  > foo.txt <br/>
+  <b>Std_</b
+  <br/><b>StdIn</b>: 0
+  <br/><b>StdOut</b>: 1
+  <br/><b>StdErr</b>: 2
+  
    </td>
 </tr>
 
 
 
 </tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
