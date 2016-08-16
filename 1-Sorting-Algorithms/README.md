@@ -1,9 +1,4 @@
-#Study Guide Topics
-
-
-These will be discussed:
-
-1. Sorting Algorithms
+#Sorting Algorithms
   * Bubble Sort
   * Selection Sort
   * Insertion Sort
