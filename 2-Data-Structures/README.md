@@ -1,4 +1,4 @@
-2. Data Structures
+#Data Structures
   * Singly Linked List
   * Doubly Linked List
   * Circular Linked List
