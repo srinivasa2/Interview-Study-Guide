@@ -70,6 +70,8 @@ These will be discussed:
   * Linked-List/Graph Traversal (Sum)
   * Backtracking
   * DFS/BFS
+  * Memory (Leaks, Automating Memory Leaks [Valgrind])
+  * What does out of memory imply?
 5. Networking
   * Network Layer
   * HTTP Protocol
@@ -857,11 +859,22 @@ Each layer treats the info it gets from layer above. Each layer also applies its
    "chomd 666 myfolder" => we have given Read/Write permissions to the owner, group, and other. <br/>
    <hr/>
   <b>Writing to a file via cmnd line</b>: echo 'Hello, World. '  > foo.txt <br/>
-  <b>Std_</b
+  <b><u>Std</u></b>
   <br/><b>StdIn</b>: 0
   <br/><b>StdOut</b>: 1
   <br/><b>StdErr</b>: 2
-  
+<hr/>
+<b><u>More UNIX</u></b>
+<br/><b>Terminal</b>: Text input and ouput environment.
+<br/><b>Shell</b>: Command line interpretator
+<br/><b>Console</b>: "Physical" terminal
+<hr/>
+<br/><b>Coping a file</b>: cp filledfile.js copyOntoHere.js <br/>
+  If the copyOntoHere.js DNE, it will automatically be created for you.  <br/>
+  <pre><code>  echo 'var i = 10;' > dummy.js
+  cp dummy.js cloneDummy.js</code></pre>
+
+
    </td>
 </tr>
 
