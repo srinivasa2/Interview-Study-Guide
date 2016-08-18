@@ -1,7 +1,6 @@
 /**
  * Created by christian on 5/15/16.
  */
-package CTCI.Chapter1;
 import java.util.*;
 public class unqiueString {
 
