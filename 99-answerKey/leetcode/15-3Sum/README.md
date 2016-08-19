@@ -50,8 +50,8 @@ Tagged: Array & 2-pointers
 </tr>
 <!---->
 <tr>
-<th>Arrays.asList(newarr)</th>
-  <td>.asList(newarr) </td>
+<th>java.util.Arrays</th>
+  <td>Arrays.asList(newarr) </td>
   <td> Adding to an <b>ArrayList is O(1)</b>; but one can argue
   that we are doing O(n) in out case since we are adding the entire list</td>
   <td>The problem provides me with an primtive integer array; hence, it is unavoidable to work
