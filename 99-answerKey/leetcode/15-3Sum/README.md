@@ -56,5 +56,6 @@ Tagged: Array & 2-pointers
   that we are doing O(n) in out case since we are adding the entire list</td>
   <td>The problem provides me with an primtive integer array; hence, it is unavoidable to work
   with anything else. Not only that, but the problem wants me to return a List of Integer Objects. </td>
-  <td> </td>
 </tr>
+</tbody>
+</table>
