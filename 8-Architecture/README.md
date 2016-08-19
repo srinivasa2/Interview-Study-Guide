@@ -9,12 +9,14 @@
 <tr>
 <th>  Backend Architecture </th>
   <td>
-      Scaling: Buy commodity hardware. Using cloud storage to expand. <br/>
-      Web Servers: Apache, lightHTTP, nginx => These all require httpd.conf. Simpler things like max connections
+      <b>Scaling</b>: 
+      <br/>Buy commodity hardware. Using cloud storage to expand. <br/>
+      <b>Web Servers</b>:
+      <br/>Apache, lightHTTP, nginx => These all require httpd.conf. Simpler things like max connections
      , worker MPM, usually unconfig'd <br/>
-      Languages: Languages aren't meant to scale for you. Use bytecode caches (PHP, Python, etc). <br/>
-      Databases: Slow, partition datat into shards and tune database. <br/>
-      <b>The above: </b> A good example of the architecture above would be a LAMP stack. 
+      <b>Languages</b>:<br/> Languages aren't meant to scale for you. Use bytecode caches (PHP, Python, etc). <br/>
+      <b>Databases</b>:<br/> Slow, partition datat into shards and tune database. <br/>
+      <b>The above </b>: <br/> A good example of the architecture above would be a LAMP stack. 
   </td>
 </tr>
 <!---->
