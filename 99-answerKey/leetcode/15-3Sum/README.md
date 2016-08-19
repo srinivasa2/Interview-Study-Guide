@@ -41,7 +41,9 @@ Tagged: Array & 2-pointers
   </td>
   <td>
   	I wanted to prevent repeats; hence, I used a Set. I avoided a HashSet, since I would need to extract the keys.
-  	In other words, <code>Map<String, List<List<Integer>>>> map = Hashmap<>(); </code> would require
+  	In other words, <code>
+  	Map< String, List< List<Integer> >> map = Hashmap<>();
+  	 </code> would require
   	me to use an Iterator and extract each individual List.
   </td>
 
