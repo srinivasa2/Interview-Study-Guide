@@ -1,15 +1,15 @@
 #Sorting Algorithms
-  * Bubble Sort <a href = "https://github.com/ChristianCSE/Interview-Study-Guide/blob/master/99-answerKey/algorithms/sorting/comparison-based/Bubble-Sort/BubbleSort.java"> [Complete: Java] </a>
-  * Selection Sort
-  * Insertion Sort
-  * Mergesort
-  * Quicksort
-  * Intro Sort
-  * Tim Sort
-  * Radix Sort Distribution Based|
-  * Bucket Sort [Distribution Based]
-  * Shell Sort
-  * Topological Sort
+  * Bubble Sort  [Complete:<a href = "https://github.com/ChristianCSE/Interview-Study-Guide/blob/master/99-answerKey/algorithms/sorting/comparison-based/Bubble-Sort/BubbleSort.java?ts=2"> Java</a>] 
+  * Selection Sort  [Complete: <a href = "https://github.com/ChristianCSE/Interview-Study-Guide/blob/master/99-answerKey/algorithms/sorting/comparison-based/Selection-Sort/SelectionSort.java?ts=2">Java</a>]  
+  * Insertion Sort  [Complete: <a href = "https://github.com/ChristianCSE/Interview-Study-Guide/blob/master/99-answerKey/algorithms/sorting/comparison-based/Insertion-Sort/InsertionSort.java?ts=2">Java</a>]  
+  * Mergesort [Complete: <a href = "https://github.com/ChristianCSE/Interview-Study-Guide/blob/master/99-answerKey/algorithms/sorting/comparison-based/Merge-Sort/MergeSort.java?ts=2"> Java</a>]  
+  * Quicksort [Complete: <a href = "https://github.com/ChristianCSE/Interview-Study-Guide/blob/master/99-answerKey/algorithms/sorting/comparison-based/quicksort/quicksort.java?ts=2"> Java</a>, <a href = "https://github.com/ChristianCSE/Interview-Study-Guide/blob/master/99-answerKey/algorithms/sorting/comparison-based/quicksort/quickSort.c?ts=2"> C </a>]  
+  * Intro Sort <a href = ""> [X]  </a>
+  * Tim Sort  <a href = ""> [X]  </a>
+  * Radix Sort Distribution Based|  <a href = ""> [X]  </a>
+  * Bucket Sort [Distribution Based]  <a href = ""> [X]  </a>
+  * Shell Sort  <a href = ""> [X]  </a>
+  * Topological Sort <a href = ""> [X]  </a>
 
 
 <ul>
