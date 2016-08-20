@@ -8,7 +8,7 @@
   * STMP & POP3
   * Ping
   * TCP Handshake
-  * Browser; what happens?
+  *  <a href ="https://launchschool.com/books/http/read/background"> Browser; what happens?</a>
   
   <br/>
   
