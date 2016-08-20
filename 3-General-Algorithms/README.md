@@ -20,6 +20,7 @@
   * Simplex (Network Flow)
   * Blossom algorithm (Graph)
   * Steinhaus Johnson Trotter (Permutations)
+  * Dynamic Programming / Recursion 
   
   <br/>
   
@@ -104,9 +105,33 @@
   <td> X</td><td> X </td>
 </tr>
 <!---->
-<tr><th> Blossom </th>
+<tr>
+<th> Blossom </th>
   <td> X</td><td> X </td>
 </tr>
+<!---->
+<tr>
+<th> Fibonacci [Recursive] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr>
+<th> Fibonacci [Dynamic] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr>
+<th> Factorial [Recursive] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+<tr>
+<th> Factorial [Dynamic] </th>
+  <td> X</td><td> X </td>
+</tr>
+<!---->
+
+
  </tbody></table>
  
  
