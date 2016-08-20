@@ -9,6 +9,7 @@
   * Memory (Leaks, Automating Memory Leaks [Valgrind])
   * What does out of memory imply?
   * String reversal
+  * Dynamic Programming / Recursion 
   <br/>
   
   <table><thread><tr>
