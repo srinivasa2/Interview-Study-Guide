@@ -1,4 +1,4 @@
-#3Sum Fails
+#3Sum [Fails]
 <pre>
 Comps: Amzn, MS, B.berg, FB, Adobe
 Tagged: Array & 2-pointers
