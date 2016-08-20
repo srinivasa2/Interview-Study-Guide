@@ -103,3 +103,8 @@ These will be discussed:
 8. Architecture
   * Backend Architecture
 9. UNIX
+99. Mixture of Problems
+  * Leetcode
+  * Project Euler
+  * HackerRank
+  * Companies
