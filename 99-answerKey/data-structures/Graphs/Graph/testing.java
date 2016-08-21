@@ -34,7 +34,7 @@ public class testing{
 	public static void main(String[] args) throws Exception
 	{
 		int vertices = 100;
-		String LINK_FILE = "wiki-links-small.txt";
+		String LINK_FILE = "wiki-links.txt";
 		formLinks( new FileInputStream(LINK_FILE) , vertices) ;
 	}
 }
