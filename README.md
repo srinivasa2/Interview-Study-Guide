@@ -120,6 +120,8 @@ These will be discussed:
             <DT>
             <A HREF="http://quiz.geeksforgeeks.org/java/" ADD_DATE="1466181163">GeeksQuiz</A>
             <DT>
+            <a href = "https://www.interviewcake.com/"> Interview Cake </a>
+            <DT>
             <A HREF="https://leetcode.com/problemset/algorithms/">Leetcode</A>
             <DT>
             <A HREF="https://www.interviewbit.com/dashboard/" >Interviewbit</A>
