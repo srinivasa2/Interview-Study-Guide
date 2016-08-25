@@ -118,7 +118,7 @@ These will be discussed:
         <DL>
         <p>
             <DT>
-            <A HREF="http://quiz.geeksforgeeks.org/java/" ADD_DATE="1466181163">GeeksQuiz</A>
+            <A HREF="http://quiz.geeksforgeeks.org/java/" ADD_DATE="1466181163">Geeks Quiz</A>
             <DT>
             <a href = "https://www.interviewcake.com/"> Interview Cake </a>
             <DT>
