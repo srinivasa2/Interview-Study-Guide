@@ -200,6 +200,8 @@ These will be discussed:
             <a href = "http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/">
             Interviewing Guide 
             </a>
+            <dt>
+            <a href = "http://www.catonmat.net/blog/my-job-interview-at-google/">Interviewing with Google </a>
             </p>
         </DL>
 </p>
