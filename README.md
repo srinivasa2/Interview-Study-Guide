@@ -196,6 +196,10 @@ These will be discussed:
             <A HREF="http://bigocheatsheet.com/" ADD_DATE="1471117812">
             Big-O Cheat Sheet
             </A>
+            <DT>
+            <a href = "http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/">
+            Interviewing Guide 
+            </a>
             </p>
         </DL>
 </p>
