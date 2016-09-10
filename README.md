@@ -16,23 +16,17 @@ These will be discussed:
   * Shell Sort
   * Topological Sort
 2. Data Structures
-  * Singly Linked List
-  * Doubly Linked List
-  * Circular Linked List
+  *  Linked List: Singly, Doubly, Circular
   * Bit Maps
   * Queue
   * Stack
   * Deque
-  * Hash Table
+  * Hash Table: Separate Chaining, Linear Probing, Hash Functions
   * Hash Map
   * Hash Set
   * Set (Interface)
   * Map (Interface)
-  * Binary Tree
-  * Binary Search Tree
-  * Red-Black Tree
-  * AVL Tree
-  * Spanning Tree
+  * Trees: AVL Tree, Red-Black Tree, Binary Tree, Binary Search Tree, Spanning Tree
   * Graphs (Undirected, Weighted Acyclic, Tree, Forest)
   * Flow Network (aka directed graph)
   * Priority Queue
@@ -43,6 +37,8 @@ These will be discussed:
 3.  General Alogirthms
   * Binary Search
   * Knuth–Morris–Pratt Algorithm
+  * Floyd-Warshall
+  * Traveling Salesman
   * Robin-Karp Alogirthm
   * Dijkstra's Algorithm
   * A*
