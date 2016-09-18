@@ -1,4 +1,4 @@
-#Valid Sudoku Question 36
+#Valid Sudoku WORKS
 ####Level: Easy || Inc: Snap, Uber, Apl
 
 Test Cases
